@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+#targetDiv {
+    background-color: yellow;
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    height: 200px;
+    width: 300px;
+}
