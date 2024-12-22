@@ -35,3 +35,4 @@ The project contains the following files:
 ## How to View the Project
 
 If you would like to see the hosted version of this project, please use the link below 
+https://rajat75-tech.github.io/DOM-project-1/
